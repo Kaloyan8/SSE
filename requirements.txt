@@ -1,0 +1,5 @@
+chromadb
+transformers
+pillow
+torch
+ultralytics
